@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>My Portfolio</title></head>
+<body>
+  <h1>Hi, I'm loser</h1>
+  <p>I love teaching coding on YouTube!</p>
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+</body>
+</html>
